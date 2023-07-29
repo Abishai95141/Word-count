@@ -20,7 +20,8 @@ End the program
 ## PROGRAM:
 
 ### OUTPUT:
-![output](/file%20handiling.png)
+![file handiling](https://github.com/Abishai95141/Word-count/assets/139335314/8163c92b-ca05-4859-be0b-55cd21481c2c)
+
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
